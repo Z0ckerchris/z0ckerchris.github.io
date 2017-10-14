@@ -1,3 +1,9 @@
+#wrapper {
+    max-width: 1000px;
+    min-width: 350px;
+    margin: 0 auto;
+}
+
 .centered {
     text-align: center;
 }

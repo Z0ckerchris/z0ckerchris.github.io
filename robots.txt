@@ -1,4 +1,4 @@
-# robots.txt of https://z0ckerchris.github.io
+# robots.txt of https://zochris.github.io
 
 User-agent: *
 Disallow: /

@@ -1,0 +1,6 @@
+header {
+    display: grid;
+    grid-auto-flow: column;
+    //grid-template-columns: 64px 1fr;
+    @extend %box;
+}

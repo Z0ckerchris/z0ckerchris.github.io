@@ -1,0 +1,11 @@
+nav {
+    display: grid;
+    gap: .25em;
+    @extend %box;
+
+    ul {
+        li {
+            list-style: none;
+        }
+    }
+}
